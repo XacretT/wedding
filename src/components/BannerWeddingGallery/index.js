@@ -21,7 +21,7 @@ const WBlockShip= () => (
         <em className="d-block g-letter-spacing-3 g-font-weight-300 g-font-style-normal g-mb-40">Наш главный и первый семейный праздник</em>
         <Link to="/gallery_wedding" className="btn btn-xxl u-btn-white g-font-weight-600 g-font-size-11 text-uppercase" >посмотреть</Link><br /><br />
         <a href="https://drive.google.com/open?id=1ilNadJdlBwxuVtpmrsuKGbnxiMbfpWkM" target="_blank" className="btn btn-md u-btn-white g-font-weight-600 g-font-size-11 text-uppercase" ><i className="fa fa-google-plus-official g-mr-3" />
-Оригинал фото (большое разрешение для печати)</a>
+Оригинал фото (большое разрешение)</a>
       </div>
     </article>
     {/* End Article */}
