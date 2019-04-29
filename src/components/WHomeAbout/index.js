@@ -18,12 +18,6 @@ const WHomeAbout = () => (
     </footer>
     </ blockquote>
 
-<div className="u-divider u-divider-solid u-divider-center g-brd-primary w-75 mx-auto g-my-80">
-  <i className="fa fa-angle-down u-divider__icon g-bg-primary g-color-black rounded-circle"></i>
-</div>
-
-
-    <p className="text-uppercase mb-0 g-font-size-30 g-color-gray-light-v3 invitation ">Информация о месте и времени проведения торжества будет разослана позже</p>
   </div>
 
 </section>
