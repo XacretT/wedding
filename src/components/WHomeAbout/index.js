@@ -6,7 +6,7 @@ import { withPrefix } from 'gatsby-link'
 
 const WHomeAbout = () => (
 
-<section id="tours" className="g-bg-gray-dark-v1 g-py-100">
+<section id="tours" className="g-bg-gray-dark-v1 g-py-100 g-pb-10">
   <div className="container text-center g-width-880 g-mb-65">
     <div className="u-heading-v2-2--bottom g-brd-primary g-mb-30">
       <h2 className="text-uppercase u-heading-v2__title g-line-height-1 g-font-weight-100 g-font-size-30 g-font-size-90--md g-mb-0 g-color-primary caligraphic">Семья</h2>
