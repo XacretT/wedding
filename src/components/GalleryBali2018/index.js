@@ -909,7 +909,7 @@ const WGallery= () => (
       <img className="img-fluid w-100" src={img291} alt="Свадебное путешествие на Бали" />
     </a>
   </div>
-  <div className="masonry-grid-item g-width-16_6x--sm">
+  <div className="masonry-grid-item g-width-66_6x--sm">
     <a className="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--masonry-col6" data-src={img292} data-caption="Свадебное путешествие на Бали">
       <img className="img-fluid" src={img292} alt="Свадебное путешествие на Бали" />
     </a>

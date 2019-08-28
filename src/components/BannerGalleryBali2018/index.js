@@ -18,7 +18,7 @@ const WBlockShip= () => (
           Путешествие
         </h3>
         <em className="d-block g-letter-spacing-3 g-font-weight-300 g-font-style-normal g-mb-40">Бали, 2018 год</em>
-        <Link to="/gallery_wedding" className="btn btn-xxl u-btn-white g-font-weight-600 g-font-size-11 text-uppercase" >посмотреть</Link><br /><br />
+        <Link to="/gallery_bali2018" className="btn btn-xxl u-btn-white g-font-weight-600 g-font-size-11 text-uppercase" >посмотреть</Link><br /><br />
       </div>
     </article>
     {/* End Article */}
