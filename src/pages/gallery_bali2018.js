@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import WHomeSlider from '../components/WHomeSlider'
-import Gallery from '../components/GalleryBali2018'
+import Gallery from '../components/Gal-Bali2018'
 
 
 
