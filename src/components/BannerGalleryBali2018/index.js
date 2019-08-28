@@ -1,6 +1,6 @@
-import React from 'react'
+﻿import React from 'react'
 import Link from 'gatsby-link'
-import img1 from './img1.jpg'
+import img1 from './1.jpg'
 
 import { withPrefix } from 'gatsby-link'
 
